@@ -21,6 +21,7 @@
   - [隐私合规测试](#隐私合规测试)
   - [APK Fuzz 测试](#apk-fuzz-测试)
   - [Frida 测试脚本](#frida-测试脚本)
+  - [drozer对Android四大组件测试](#drozer)
   - [其他工具](#其他工具)
   - [关注我们](#关注我们)
 
@@ -154,6 +155,38 @@ $ python3 tools/camille-master/camille.py -ns -t 3 -f demo.xls
 ## Frida 测试脚本
 
 [Frida](./frida/)
+
+## drozer
+
+[drozer](./drozer/)
+
+https://7777777line.github.io/2015/07/17/Activity%E7%BB%84%E4%BB%B6%E6%9A%B4%E9%9C%B2%E5%AF%BC%E8%87%B4%E6%9C%AC%E5%9C%B0%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1/
+
+https://xz.aliyun.com/t/12092?time__1311=GqGxR7D%3DemqqlrzG7Dy7IuxAI1fRD7wnmD#toc-0
+
+https://blog.csdn.net/sun8890446/article/details/89841578
+
+https://github.com/WithSecureLabs/drozer
+
+https://zone.huoxian.cn/d/555-drozer-py3
+
+https://github.com/JaveleyQAQ/drozer-tester/tree/main
+
+https://bbs.kanxue.com/thread-269211.htm#msg_header_h3_5
+
+https://bbs.kanxue.com/thread-269255.htm#msg_header_h3_2
+
+https://bbs.kanxue.com/thread-269309.htm
+
+https://bbs.kanxue.com/thread-269447.htm
+
+https://www.cnblogs.com/wjrblogs/p/13953761.html 这个不错
+
+https://bbs.kanxue.com/thread-262208.htm#msg_header_h2_30 这个非常全面
+
+https://www.cnblogs.com/zhaoyixiang/p/11236458.html
+
+https://blog.csdn.net/u013107656/article/details/51889227
 
 ## 其他工具
 
